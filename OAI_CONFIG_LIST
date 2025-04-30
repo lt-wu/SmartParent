@@ -1,0 +1,18 @@
+[
+    {   
+        "model": "gpt-35-turbo-1106", 
+        "api_key": "YOUR_API_KEY"
+    },
+    {
+        "model": "gpt-4o",
+        "api_key": "393bb6051a2b4d3492022575dd0a038f",
+        "api_type": "azure",
+        "base_url": "https://cast-southcentral-nprd-apim.azure-api.net/cragmm",
+        "api_version": "2024-02-15-preview"
+    },
+    {   
+        "model": "gemini-1.5-pro-latest",
+        "api_key": "YOUR_API_KEY",
+        "api_type": "google"
+    }
+]
