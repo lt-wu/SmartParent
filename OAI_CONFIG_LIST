@@ -5,7 +5,7 @@
     },
     {
         "model": "gpt-4o",
-        "api_key": "393bb6051a2b4d3492022575dd0a038f",
+        "api_key": ###,
         "api_type": "azure",
         "base_url": "https://cast-southcentral-nprd-apim.azure-api.net/cragmm",
         "api_version": "2024-02-15-preview"
