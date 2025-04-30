@@ -36,3 +36,5 @@
 ---
 
 ## 🧠 System Architecture
+![System Architecture](image.png)
+
