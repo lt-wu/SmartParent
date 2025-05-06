@@ -153,7 +153,7 @@ class OrchestratorAgent:
         return responses
 
 if __name__ == "__main__":
-    api_key = '393bb6051a2b4d3492022575dd0a038f'
+    api_key = ##
     agent = OrchestratorAgent(api_key)  # Remove 'search_pipeline'
 
     query = f"""
